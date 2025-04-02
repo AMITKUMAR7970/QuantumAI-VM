@@ -1,7 +1,6 @@
 # QuantumAI-VM
 
-VM_Project/
-│
+VM_Project/│
 ├── CMakeLists.txt                     # CMake build configuration file
 ├── README.md                          # Project documentation
 ├── Dockerfile                         # Docker configuration for containerization
