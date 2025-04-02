@@ -13,7 +13,7 @@ QuantumAI-VM is an advanced virtual machine designed for high-performance execut
 
 ## Project Structure
 
-
+```
 VM_Project/
 │
 ├── CMakeLists.txt                     # CMake build configuration file
@@ -62,6 +62,7 @@ VM_Project/
     ├── user_guide.md                  # User guide for using the VM
     ├── api_reference.md               # API reference for interacting with the VM
     └── tutorial.md                    # Step-by-step tutorial for the VM setup
+```
 
 ## Installation
 
