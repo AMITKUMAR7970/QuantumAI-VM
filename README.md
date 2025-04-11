@@ -77,10 +77,7 @@ Ensure you have the following dependencies installed:
 
 ### Build Instructions
 
-```sh
-# Clone the repository
-git clone https://github.com/your-repo/QuantumAI-VM.git
-cd QuantumAI-VM
+
 
 # Create build directory and compile the project
 mkdir build && cd build
@@ -94,22 +91,7 @@ make
 ./build/QuantumAI_VM
 ```
 
-## Testing
 
-Run unit and integration tests:
-
-```sh
-./scripts/run_tests.sh
-```
-
-## Contribution
-
-We welcome contributions! Follow these steps:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-xyz`
-3. Commit changes: `git commit -m 'Add new feature xyz'`
-4. Push to branch: `git push origin feature-xyz`
-5. Create a Pull Request.
 
 
 
